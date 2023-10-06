@@ -14,3 +14,4 @@ kinetic_energy = 0.5 * mass * speed ** 2
 
 print("The object has", kinetic_energy, "joules of energy.")
 
+
